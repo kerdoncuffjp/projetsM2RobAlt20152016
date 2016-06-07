@@ -2,7 +2,7 @@
 
 |Attribution|Type|Nom du projet|Remarques|
 |---|---|---|---|
-|Kerdoncuff|Biblio|Interception automatique de drônes||
+|Kerdoncuff|Biblio|Interception de drônes aériens||
 |Le Texier/Cosson|Bib|Ethique et Robotique(A PRECISER)||
 |Gourlaouen/Lamour|Tech|Modernisation du déplacement de robots dans une chaîne de production||
 |Quere/Lagadec|Tech|Simulation d'un essaim de robot avec MOOS et MOOS-Ivp||
@@ -12,15 +12,15 @@
 
 # Fiches descriptive des projets
 
-## Interception automatique de drônes [Bib] [J.P. Kerdoncuff]
+## Interception de drônes aériens[Bib] [J.P. Kerdoncuff]
 
-Le projet consste à dresser un état de l'art sur les méthodes utilisées pour intercepter un drône aérien.
+Le projet consiste à dresser un état de l'art sur les méthodes utilisées pour intercepter un drône aérien.
 
 Les sujets abordés sont :
-* point 1
+* Métodes physiques
  * azerty
  * tyuiop
-* point 2
+* Méthodes à distance
  * azerty
  * tyuiop
 
