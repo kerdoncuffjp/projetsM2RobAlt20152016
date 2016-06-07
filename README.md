@@ -2,7 +2,7 @@
 
 |Attribution|Type|Nom du projet|Remarques|
 |---|---|---|---|
-|Kerdoncuff|Biblio|Interception automatique de drônes||
+|Kerdoncuff|Biblio|Interception de drônes aériens||
 |Le Texier/Cosson|Bib|Ethique et Robotique(A PRECISER)||
 |Gourlaouen/Lamour|Tech|Modernisation du déplacement de robots dans une chaîne de production||
 |Quere/Lagadec|Tech|Simulation d'un essaim de robot avec MOOS et MOOS-Ivp||
